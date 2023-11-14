@@ -1,12 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
 import requests.exceptions
-from urlparse import urlparse
+from urllib.parse import urlparse
 from collections import deque
 import re
 
 
-url = raw_input("Enter the URL to crwl:")
+url = input("Enter the URL to crwl:")
 new_urls = deque([url])
 processed_urls = set()
 
