@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm currently working in Cybersecurity.<br>Currently, I'm learning Go to focus on my Cybersecurity projects<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oscar-queralt%C3%B3-67977499/) 
 
