@@ -2,7 +2,8 @@ I have developed a small tool that can be used to gather or scrape links from th
 
 The use is simple. Write **python3 Linktracker.py** and then put the URL of the website from which you want to extract the hyperlinks and file name that you want save the results.
 
-<img width="991" alt="image" src="https://github.com/svaltheim/crwl/assets/30341113/a320543c-27d4-4787-a4fd-b00b0cf36efb">
+<img width="1000" alt="image" src="https://github.com/svaltheim/crwl/assets/30341113/b2c13fde-44c0-424d-892e-5e572c47e3d7">
+
 
 
 
